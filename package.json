@@ -1,0 +1,16 @@
+{
+  "name": "pdfservice",
+  "version": "0.0.1",
+  "description": "automating pdf services",
+  "main": "handler.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leechuan",
+  "license": "ISC"
+}
